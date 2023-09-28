@@ -1,0 +1,9 @@
+<template>
+    <div>
+        Reg
+    </div>
+</template>
+<script>
+</script>
+<style>
+</style>
